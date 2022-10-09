@@ -64,8 +64,8 @@ h2{
 a{
     color: cornflowerblue;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 400px) {
             .todos,
             .centro {
-                width: 70%;
+                width: 50%;
             }
