@@ -1,0 +1,66 @@
+body{
+    background-color: #0E1525;
+    color: white;
+}
+#img1{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: 2px solid cornflowerblue ;
+    padding: 5px;
+  } 
+.centro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    width: 50%;
+    border-color: cornflowerblue;
+}
+#foto{
+    border-radius: 8px;
+    opacity: 0.8;
+    float: left;
+    margin: 15px;
+}
+#p2{
+    border-radius: 8px;
+    opacity: 0.8;
+    float: right;
+    margin: 15px;
+    width: 270px;
+}
+.todos{
+    text-align: center;
+    font-family: Georgia;
+}
+.p1{
+    float: left;
+    margin-right: 50%;
+    height: 400px;
+    width: 800px;
+}
+.p2{
+    float: right;
+    height: 400px;
+    width: 800px;
+    margin-bottom: 20px;
+    margin-left: 50%;
+}
+.p3{
+    float: left;
+    height: 400px;
+    width: 800px;
+    margin-right: 50%;
+}
+iframe{
+    float: left;
+}
+h2{
+    text-align: center;
+}
+a{
+    color: cornflowerblue;
+}
